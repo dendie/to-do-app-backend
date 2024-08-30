@@ -43,13 +43,17 @@ Build the application for production:
 ```bash
 # npm
 npm run build
+npm run start
 
 # pnpm
 pnpm run build
+phpm run start
 
 # yarn
 yarn build
+yarn start
 
 # bun
 bun run build
+bun run start
 ```
